@@ -29,9 +29,11 @@ What is Thai Localization supported.
   >>- The system will showing extra description field that user can be fill-in with local description. (Eg. Chart of Account with english/thai language)
   >* New version will able to support automate translate setup. (Comming soon)
 
->3. Fact box Document Statistic to easy see summary per document.
->4. Support Petty Cash (Select multiple vendor in 1 invoice or 1-time vendor).
->5. Financial Report for Auditor to save G/L movement and keep as document and sign.
+>NWTHLOC.LOC00003. Fact box Document Statistic to easy see summary per document.
+
+>NWTHLOC.LOC00004. Support Petty Cash (Select multiple vendor in 1 invoice or 1-time vendor).
+
+>NWTHLOC.LOC00005. Financial Report for Auditor to save G/L movement and keep as document and sign.
 
   >>- Report Sales Voucher.
   >>- Report Purchase Voucher
@@ -45,7 +47,7 @@ What is Thai Localization supported.
   >>- Report Fiscal Year Balance
 
 >*Support printing before and after posting!!
->6. Thai Bank Cheque Format.
+>NWTHLOC.LOC00006. Thai Bank Cheque Format.
 
   >>- BBL
   >>- SCB
@@ -55,30 +57,48 @@ What is Thai Localization supported.
   >>- KTB
 
 >*Support printer Landscape & Portrait
->7. New Posted Journal Page easy to navigate.
+
+>NWTHLOC.LOC00007. New Posted Journal Page easy to navigate.
 
   >>- Posted Cash Receipt Journal
   >>- Posted Payment Journal
   >>- Posted General Journal
   >>- Posted FA G/L Journal
 
->8. Possible to enable/disable to show ship/receive and invoice or show only ship/receive<br>
+>NWTHLOC.LOC00008. Possible to enable/disable to show ship/receive and invoice or show only ship/receive<br>
 To avoid sales/purchase team post invoice if don't want to use warehouse module
->9. Protect data missing about shipment date and expected receipt date when post the order.
->10. Not only undo shipment/received process but add new action to correct the transaction for avoid costing issues.
->11. Posted Date Checked Management Process that can help you to reconcile the check ledger entry<br>
+
+>NWTHLOC.LOC00009. Protect data missing about shipment date and expected receipt date when post the order.
+
+>NWTHLOC.LOC00010. Not only undo shipment/received process but add new action to correct the transaction for avoid costing issues.
+
+>NWTHLOC.LOC00012. Posted Date Checked Management Process that can help you to reconcile the check ledger entry<br>
 And this feature will allow you to keep check ledger entry on cash receipt journal.
->12. When post payment for prepayment invoice, the order will change status to released automatic.
->13. When complete post ship & invoice by get shipment/receipt line on invoice process will automatic remove order document.
->14. Simple Original Receipt/Tax Invoice Report
->15. The user can book the posting no. or booking set of no. series before post.
->16. Support basic tracking multiple company branch code in 1 company.
->18. Basic billing to summary the outstanding invoice and printing the report.
->19. Interface exchange with BOT (Bank of Thailand), if customer under NaviWorld support packet that possible to use our API
+
+>NWTHLOC.LOC00013. When post payment for prepayment invoice, the order will change status to released automatic.
+
+>NWTHLOC.LOC00014. When complete post ship & invoice by get shipment/receipt line on invoice process will automatic remove order document.
+
+>NWTHLOC.LOC00015. Simple Original Receipt/Tax Invoice Report
+
+>NWTHLOC.LOC00019. The user can book the posting no. or booking set of no. series before post.
+
+>NWTHLOC.LOC00021. The system can able to reverse the payment that post with VAT Unrealized.
+
+>NWTHLOC.LOC00022. The system can able to reverse the payment that post with Gain/Loss.
+
+>NWTHLOC.LOC00025. Support basic tracking multiple company branch code in 1 company.
+
+>NWTHLOC.LOC00027. Basic billing to summary the outstanding invoice and printing the report.
+
+>NWTHLOC.LOC00030. The system can able to download PDF/A3, XML for eTaxInvoice, eReceipt but still required to install local WebService. (Will be released on next version)
+
+>NWTHLOC.LOC00031. The system can able to validate the Thai VAT registration no. and put the name/address into master automatically.
+
+>NWTHLOC.LOC00032. Interface exchange with BOT (Bank of Thailand), if customer under NaviWorld support packet that possible to use our API
 
 What is latest version of NWTHLOC
- > 13.0.0.0
- > Extension 1.0.0.0
+ > 15.1.0.0
 
 What kind of issues we supported you.
  > All bug which is came from NWTHLOC.
