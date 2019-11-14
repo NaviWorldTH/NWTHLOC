@@ -2,28 +2,33 @@
 NaviWorld Thai Localization for Dynamics NAV/365 Business Central extensions
 
 What is NWTHLOC, NWTHLOC is Thai Localization which created by NaviWorld (Thailand) Co. Ltd.
->All NaviWorld ISV solution will able to enable/disable feature.
->So that mean any helpful for the user just disable that feature!!!
+>The thai localization is not only support VAT/WHT thai revenue department but also improve user experience
+>After install our extensions with multiple countries also support by enable/disable function.
+>If your another companies doesn't needed to use our localized that can be disable to hide the fields/actions.
 
 What is Thai Localization supported.
->All NaviWorld ISV solution will able to enable/disable feature.<br>
-So that mean any helpful for the user just disable that feature!!!
->1. Support Printing Report for Thai Revenue Department.
-
-  >>- New Screen for Management to pick up the VAT/WHT entry for submit to revenue department.
-  >>- WHT calculate support shipping concept to define different name on WHT 50 BIS
+>NWTHLOC.LOC00001. Support VAT/WHT for Thai Revenue Department.
+  >>- The system will able to created the WHT Entry.
+  >>- The system will able to print the WHT Certificate 50 BIS.
+  >>- The system will able to retived the VAT/WHT data and print the VAT/WHT report.
   >>- Report Sales VAT7% No VAT
   >>- Report Purchase VAT7%, No VAT
   >>- Report WHT 50 BIS
   >>- Report WHT PND3*
   >>- Report WHT PND53*
+  >>- The system will able to print the stock report for submit the revenue department.
   >>- Report Stock Card
   >>- Report Stock Movement
+  >>- The system will able to print the fixed detail following revenue department requirement template.
   >>- Report Fixed Asset Detail
-
->*Support Export to Text file uploaded to Revenue Department Application!! <br>
+  
+>*Support Export to Text file uploaded to Revenue Application!! <br>
 *Support printing before and after posting!!
->2. Add 2nd Description for multiple language master data support.
+
+>NWTHLOC.LOC00002. Add 2nd Description for multiple language master data support.
+  >>- The system will showing extra description field that user can be fill-in with local description. (Eg. Chart of Account with english/thai language)
+  >* New version will able to support automate translate setup. (Comming soon)
+
 >3. Fact box Document Statistic to easy see summary per document.
 >4. Support Petty Cash (Select multiple vendor in 1 invoice or 1-time vendor).
 >5. Financial Report for Auditor to save G/L movement and keep as document and sign.
