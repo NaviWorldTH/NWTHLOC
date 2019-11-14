@@ -7,7 +7,7 @@ What is NWTHLOC, NWTHLOC is Thai Localization which created by NaviWorld (Thaila
 >If your another companies doesn't needed to use our localized that can be disable to hide the fields/actions.
 
 What is Thai Localization supported.
->NWTHLOC.LOC00001. Support VAT/WHT for Thai Revenue Department.
+><b>NWTHLOC.LOC00001</b>. Support VAT/WHT for Thai Revenue Department.
   >>- The system will able to created the WHT Entry.
   >>- The system will able to print the WHT Certificate 50 BIS.
   >>- The system will able to retived the VAT/WHT data and print the VAT/WHT report.
