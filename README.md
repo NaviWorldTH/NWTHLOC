@@ -99,7 +99,7 @@ And this feature will allow you to keep check ledger entry on cash receipt journ
 ><b>NWTHLOC.LOC00032</b>. Interface exchange with BOT (Bank of Thailand), if customer under NaviWorld support packet that possible to use our API
 
 What is latest version of NWTHLOC
- > <b>15.1.0.0</b>
+ > <b>15.2.1.0</b>
 
 What kind of issues we supported you.
  > All bug which is came from NWTHLOC.
